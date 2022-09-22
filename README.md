@@ -18,8 +18,8 @@
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-360D3A?style=flat-square&logo=Adobe Premiere Pro&logoColor=white">
 </p>
 <br/>
-<h3 align="left"><b> ✉️Email✉️  </b></h3>
+<h3 align="left"><b> 📱Contact📱 </b></h3>
 <hr/>
 <p align="left">
-<a href="mailto:leeah0913@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leeah0913@gmail.com"/></a>
+<a href="mailto:leeah0913@gmail.com"><img src="https://img.shields.io/badge/leeah0913@gmamil.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leeah0913@gmail.com"/></a>
 </p>
