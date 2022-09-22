@@ -1,8 +1,7 @@
 <h3 align="left"><b> ✉️ Email ✉️  </b></h3>
 <a href="mailto:leeah0913@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leeah0913@gmail.com"></a>
 <br/>
-<br/>
-<br/>
+
 <h3 align="left"><b>💪 Skill 💪</b></h3>
 <h5 align="left"><b>Languages</b></h5>
 <p align="left">
@@ -13,8 +12,6 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
 </p>
 <br/>   
-<br/>
-<br/>
 <h3 align="left"><b> 💪 Sub-Skill 💪  </b></h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
