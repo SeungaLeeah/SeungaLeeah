@@ -1,5 +1,5 @@
 <h3 align="left"><b>💻 TECH </b></h3>
-<h5 align="left"><b>Languages</b></h5>
+<hr/>
 <p align="left">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -9,6 +9,7 @@
 </p>
 <br/>   
 <h3 align="left"><b>💪 Sub-Skill 💪</b></h3>
+<hr/>
 <p align="left">
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white">
@@ -18,5 +19,5 @@
 </p>
 <br/>
 <h3 align="left"><b> ✉️ Email ✉️  </b></h3>
-----------------------------------------------------
+<hr/>
 <a href="mailto:leeah0913@gmail.com><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leeah0913@gmail.com"></a>
