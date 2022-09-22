@@ -1,16 +1,22 @@
-### Hi there 👋
+<h3 align="left"><b> ✉️ Email ✉️  </b></h3>
+<a href="mailto:leeah0913@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leeah0913@gmail.com"/></a>
+<br/>
+<br/>
+<br/>
+<h3 align="left"><b>💪 Skill 💪</b></h3>
+<h5 align="left"><b>Languages</b></h5>
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-#E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-#1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/React-#61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Redux-#764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+<br/>   
+<br/>
+<br/>
+<h3 align="left"><b> 💪 Sub-Skill 💪  </b></h3>
+<img src="https://img.shields.io/badge/Adobe Photoshop-#31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe Illustrator-#FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe XD-#FF61F6?style=for-the-badge&logo=Adobe XD&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe InDesign-#FF3366?style=for-the-badge&logo=Adobe InDesign&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe Premiere Pro-#360D3A?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white">
 
-<!--
-**SeungaLeeah/SeungaLeeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
