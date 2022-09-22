@@ -1,8 +1,4 @@
-<h3 align="left"><b> ✉️ Email ✉️  </b></h3>
-<a href="mailto:leeah0913@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leeah0913@gmail.com"></a>
-<br/>
-
-<h3 align="left"><b>💪 Skill 💪</b></h3>
+<h3 align="left"><b>💻 TECH </b></h3>
 <h5 align="left"><b>Languages</b></h5>
 <p align="left">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
@@ -12,7 +8,7 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
 </p>
 <br/>   
-<h3 align="left"><b> 💪 Sub-Skill 💪  </b></h3>
+<h3 align="left"><b>💪 Sub-Skill 💪</b></h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white">
@@ -20,3 +16,7 @@
 <img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=for-the-badge&logo=Adobe InDesign&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-360D3A?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white">
 </p>
+<br/>
+<h3 align="left"><b> ✉️ Email ✉️  </b></h3>
+----------------------------------------------------
+<a href="mailto:leeah0913@gmail.com><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leeah0913@gmail.com"></a>
